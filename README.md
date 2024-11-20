@@ -52,8 +52,8 @@ Ces certifications reflètent mon expertise et ma passion pour :
 
 ## 📫 **Contact**
 Si vous souhaitez discuter de mes projets ou de mes compétences, vous pouvez me contacter via :  
-- **Email** : [boukouba.hazem@gmail.com] 
-- **LinkedIn** : [www.linkedin.com/in/boukouba-hazem]
+- **Email** : [boukouba.hazem@gmail.com](mailto:votre.email@example.com)
+- **LinkedIn** : [www.linkedin.com/in/boukouba-hazem](https://linkedin.com/in/votre-profil)
 
 ---
 
