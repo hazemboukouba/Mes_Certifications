@@ -35,8 +35,8 @@ Bienvenue sur mon dépôt où je partage mes certifications professionnelles obt
   
 2. **[Intermediate Python Programming](Certifications/intermediate_python_programming_certification.pdf)**  
    - Organisme : 365 Data Science
-3. **[C Programming](Certifications/intermediate_python_programming_certification.pdf)**  
-   - Organisme : 365 Data Science
+3. **[C Programming](Certifications/C_Programming_certification.pdf)**  
+   - Organisme : simplilearn.com
 
 
 ---
