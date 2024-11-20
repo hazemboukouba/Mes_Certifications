@@ -5,7 +5,7 @@ Bienvenue sur mon dépôt où je partage mes certifications professionnelles obt
 ## 🏆 **Certifications Listées**
 
 ### 📂 **Systèmes Embarqués**
-1. **[Formation en C pour systèmes embarqués](./Formation_Systeme_Embarqué_certification_CSF.pdf)**  
+1. **[Formation en C pour systèmes embarqués](Certifications/Formation_Systeme_Embarqué_certification_CSF.pdf)**  
    - Points forts :  
      - Rappels des bases du langage C.  
      - Organisation mémoire et normes ANSI/MISRA.  
