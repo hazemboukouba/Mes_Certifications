@@ -40,7 +40,8 @@ Bienvenue sur mon dépôt où je partage mes certifications professionnelles obt
 ---
 
 ### 📂 **Méthodes Agiles**
-1. **[Agile Scrum Foundation]([Certifications/agile_scrum_foundation.pdf](https://simpli-web.app.link/e/yfHMSfoyGOb))**  
+1. **[Agile Scrum Foundation](Certifications/agile_scrum_foundation.pdf)**
+2. 
    
   
 ## 🌟 **Pourquoi ces certifications ?**
