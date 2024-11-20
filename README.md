@@ -35,13 +35,15 @@ Bienvenue sur mon dépôt où je partage mes certifications professionnelles obt
   
 2. **[Intermediate Python Programming](Certifications/intermediate_python_programming_certification.pdf)**  
    - Organisme : 365 Data Science
+3. **[C Programming](Certifications/intermediate_python_programming_certification.pdf)**  
+   - Organisme : 365 Data Science
 
 
 ---
 
 ### 📂 **Méthodes Agiles**
 1. **[Agile Scrum Foundation](Certifications/agile_scrum_foundation.pdf)**
-2. 
+
    
   
 ## 🌟 **Pourquoi ces certifications ?**
