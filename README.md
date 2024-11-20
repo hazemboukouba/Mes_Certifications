@@ -12,34 +12,34 @@ Bienvenue sur mon dépôt où je partage mes certifications professionnelles obt
      - Conception et développement de drivers.  
      - Débogage et ateliers pratiques sur STM32F4.  
     
-2. **[Programmation orientée objet (C++) et QT](./Formation_Systeme_Embarqué_certification_CSF.pdf)**  
+2. **[Programmation orientée objet (C++) et QT](Certifications/Formation_Systeme_Embarqué_certification_CSF.pdf)**  
    - Points forts :  
      - Programmation orientée objet en C++.  
      - Encapsulation et polymorphisme.  
      - Développement d’une API QT pour une IHM embarquée.  
 
-3. **[Architecture et programmation des STM32](./Formation_Systeme_Embarqué_certification_CSF.pdf)**  
+3. **[Architecture et programmation des STM32](Certifications/Formation_Systeme_Embarqué_certification_CSF.pdf)**  
    - Points forts :  
      - Fonctionnalités des microcontrôleurs STM32F4xx.  
      - Développement firmware et environnements STM32.  
 
-4. **[Linux embarqué et temps réel](./Formation_Systeme_Embarqué_certification_CSF.pdf)**  
+4. **[Linux embarqué et temps réel](Certifications/Formation_Systeme_Embarqué_certification_CSF.pdf)**  
    - Points forts :  
      - Configuration du noyau Linux et compilation croisée.  
  
 ---
 
 ### 📂 **Développement et Programmation**
-1. **[Git and GitHub Certification](./git_github_certification.pdf)**  
+1. **[Git and GitHub Certification](Certifications/git_github_certification.pdf)**  
    - Organisme : 365 Data Science  
   
-2. **[Intermediate Python Programming](./intermediate_python_programming_certification.pdf)**  
+2. **[Intermediate Python Programming](Certifications/intermediate_python_programming_certification.pdf)**  
    - Organisme : 365 Data Science  
 
 ---
 
 ### 📂 **Méthodes Agiles**
-1. **[Agile Scrum Foundation](./agile_scrum_foundation.pdf)**  
+1. **[Agile Scrum Foundation](Certifications/agile_scrum_foundation.pdf)**  
    
   
 ## 🌟 **Pourquoi ces certifications ?**
